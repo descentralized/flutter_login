@@ -16,6 +16,7 @@ dependencies:
   #sign_in_button: ^3.0.0
   
   sign_in_button:
+    publish_to: none
     git:
       url: https://github.com/descentralized/Flutter-Sign-in-Button.git
 
